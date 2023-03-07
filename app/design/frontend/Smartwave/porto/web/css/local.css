@@ -1,0 +1,61 @@
+/* ------------------------------------------------------------------ */
+
+
+.rating-summary {
+    margin-top: -6%;
+    margin-left: 51%;
+}
+
+
+/* ------------------------------------------------------------------ */
+
+.top-text {
+    background: white;
+    width: 50%;
+    margin: 13% 0% 3% 3%;
+}
+
+.top-banners {
+    background: #fff0e5;
+    color: #313131;
+    padding: 25px 30px 25px 110px;
+    margin-left: 5%;
+}
+
+.top-keuzes {
+    padding: 10%;
+    background: #f2fbfe;
+    margin-top: 5%;
+    margin-left: 5%;
+}
+
+.top-list {
+    color: #3d3e3e;
+    margin-right: 5%;
+    margin-left: -17%;
+}
+
+.top-list-li {
+    margin: 4%;
+}
+
+.button-green{
+  background-color: #00ac00;
+  padding: 16px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  transition-duration: 0.4s;
+  cursor: pointer;
+  color: white !important; 
+  border: 2px solid #4CAF50;
+}
+
+.button-green:hover {
+  background-color: #009900;
+  color: white;
+}
+
+/* ------------------------------------------------------------------ */
